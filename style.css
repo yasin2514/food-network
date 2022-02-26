@@ -1,0 +1,83 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+.half-width {
+  width: 45%;
+  padding: 100px 80px;
+  margin: 10px;
+  
+}
+.Flex-Container {
+  display: flex;
+}
+
+.half-width h1 {
+  font-size: 4rem;
+  color: rgb(63, 62, 62);
+}
+.half-width span {
+  color: orange;
+}
+ p {
+  color: gray;
+  font-size: 20px;
+}
+
+.btn {
+
+  color: white;
+  background-image: linear-gradient(orange, orangered);
+  padding: 20px 60px;
+  border-radius: 60px;
+  font-size: 22px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 130px;
+  position:absolute;
+}
+
+.half-width img {
+  width: 110%;
+}
+#about-me {
+  background-image: url(images/shapes/Frame\ 56.jpg);
+  background-repeat: no-repeat;
+}
+#section-3-fooditem h1 {
+  font-size: 4rem;
+  text-align: center;
+  color: rgb(63, 62, 62);
+}
+.food-item-width{
+    display: block;
+    width: 50%;
+    margin: 0px auto;
+}
+.food-item{
+    padding: 50px;
+}
+.list-food {
+  width: 32%;
+  padding: 20px;
+  box-shadow: 10px 5px   30px gray;
+  border-radius: 20px ;
+  margin: 50px;
+ 
+}
+.list-food img {
+    width: 100%;
+ 
+    
+}
+
+
+.list-food h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+.list-food p {
+  color: gray;
+  font-size: 20px;
+}
