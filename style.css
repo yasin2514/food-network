@@ -61,8 +61,8 @@ body {
 .list-food {
   width: 32%;
   padding: 20px;
-  box-shadow: 10px 5px   30px gray;
-  border-radius: 20px ;
+ box-shadow: 1px -2px 100px rgb(172, 172, 172);
+  border-radius: 30px ;
   margin: 50px;
  
 }
@@ -80,4 +80,38 @@ body {
 .list-food p {
   color: gray;
   font-size: 20px;
+}
+#social{
+  width: 70%;
+  margin: 60px auto;
+ box-shadow: 1px -2px 100px rgb(172, 172, 172);
+ border-radius: 20px;
+
+}
+.social-media{
+  margin: 0px auto;
+  text-align: center;
+}
+.social-media h1{
+  font-size: 4rem;
+  font-weight: bold
+}
+.footer{
+  background-color: rgb(13, 12, 14);
+  padding: 50px;
+  margin-top: 160px;
+
+ 
+}
+.footer-text{
+  width: 50%;
+  margin: 40px auto;
+  text-align: center;
+}
+.footer-text span{
+  color:orange;
+}
+.footer-text h2{
+  color: rgba(207, 207, 207, 0.671);
+  font-size: 30px;
 }
