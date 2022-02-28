@@ -7,7 +7,6 @@ body {
   width: 45%;
   padding: 100px 80px;
   margin: 10px;
-  
 }
 .Flex-Container {
   display: flex;
@@ -20,13 +19,12 @@ body {
 .half-width span {
   color: orange;
 }
- p {
+p {
   color: gray;
   font-size: 20px;
 }
 
 .btn {
-
   color: white;
   background-image: linear-gradient(orange, orangered);
   padding: 20px 60px;
@@ -35,7 +33,7 @@ body {
   text-decoration: none;
   font-weight: bold;
   margin-top: 130px;
-  position:absolute;
+  position: absolute;
 }
 
 .half-width img {
@@ -50,28 +48,24 @@ body {
   text-align: center;
   color: rgb(63, 62, 62);
 }
-.food-item-width{
-    display: block;
-    width: 50%;
-    margin: 0px auto;
+.food-item-width {
+  display: block;
+  width: 50%;
+  margin: 0px auto;
 }
-.food-item{
-    padding: 50px;
+.food-item {
+  padding: 50px;
 }
 .list-food {
   width: 32%;
   padding: 20px;
- box-shadow: 1px -2px 100px rgb(172, 172, 172);
-  border-radius: 30px ;
+  box-shadow: 1.5px 9px 38px rgb(172 172 172);
+  border-radius: 30px;
   margin: 50px;
- 
 }
 .list-food img {
-    width: 100%;
- 
-    
+  width: 100%;
 }
-
 
 .list-food h2 {
   text-align: center;
@@ -81,37 +75,34 @@ body {
   color: gray;
   font-size: 20px;
 }
-#social{
+#social {
   width: 70%;
   margin: 60px auto;
- box-shadow: 1px -2px 100px rgb(172, 172, 172);
- border-radius: 20px;
-
+  box-shadow: 1.5px 9px 38px rgb(172 172 172);
+  border-radius: 20px;
 }
-.social-media{
+.social-media {
   margin: 0px auto;
   text-align: center;
 }
-.social-media h1{
+.social-media h1 {
   font-size: 4rem;
-  font-weight: bold
+  font-weight: bold;
 }
-.footer{
+.footer {
   background-color: rgb(13, 12, 14);
   padding: 50px;
   margin-top: 160px;
-
- 
 }
-.footer-text{
+.footer-text {
   width: 50%;
   margin: 40px auto;
   text-align: center;
 }
-.footer-text span{
-  color:orange;
+.footer-text span {
+  color: orange;
 }
-.footer-text h2{
+.footer-text h2 {
   color: rgba(207, 207, 207, 0.671);
   font-size: 30px;
 }
